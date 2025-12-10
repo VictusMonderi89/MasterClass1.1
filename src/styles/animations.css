@@ -1,0 +1,121 @@
+/* Animaciones sutiles y profesionales */
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+/* Clases de animación */
+.fade-in {
+  animation: fadeIn var(--transition-base);
+}
+
+.fade-in-up {
+  animation: fadeInUp var(--transition-slow);
+}
+
+.fade-in-down {
+  animation: fadeInDown var(--transition-slow);
+}
+
+.slide-in-right {
+  animation: slideInRight var(--transition-base);
+}
+
+.slide-in-left {
+  animation: slideInLeft var(--transition-base);
+}
+
+.scale-in {
+  animation: scaleIn var(--transition-base);
+}
+
+/* Hover effects */
+.hover-lift {
+  transition: transform var(--transition-base), box-shadow var(--transition-base);
+}
+
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-xl);
+}
+
+.hover-scale {
+  transition: transform var(--transition-base);
+}
+
+.hover-scale:hover {
+  transform: scale(1.05);
+}
+
+.hover-opacity {
+  transition: opacity var(--transition-fast);
+}
+
+.hover-opacity:hover {
+  opacity: 0.8;
+}

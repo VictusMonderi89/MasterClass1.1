@@ -1,0 +1,71 @@
+:root {
+  /* Paleta de colores corporativa minimalista */
+  --color-primary: #1a1a1a;
+  --color-secondary: #2d2d2d;
+  --color-accent: #404040;
+  --color-dark: #0a0a0a;
+  --color-gray-900: #1a1a1a;
+  --color-gray-800: #2d2d2d;
+  --color-gray-700: #404040;
+  --color-gray-600: #525252;
+  --color-gray-500: #6b6b6b;
+  --color-gray-400: #9ca3af;
+  --color-gray-300: #d1d5db;
+  --color-gray-200: #e5e7eb;
+  --color-gray-100: #f3f4f6;
+  --color-white: #ffffff;
+  
+  /* Gradientes sutiles */
+  --gradient-dark: linear-gradient(135deg, #0a0a0a 0%, #2d2d2d 100%);
+  --gradient-subtle: linear-gradient(180deg, #1a1a1a 0%, #404040 100%);
+  --gradient-hover: linear-gradient(135deg, #2d2d2d 0%, #404040 100%);
+  
+  /* Tipografía - Sans-serif tipo Helvetica */
+  --font-primary: 'Helvetica Neue', 'Arial', 'Liberation Sans', 'Nimbus Sans L', sans-serif;
+  --font-display: 'Helvetica Inserat', 'Impact', 'Haettenschweiler', 'Franklin Gothic Bold', sans-serif;
+  
+  /* Tamaños de fuente */
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+  --font-size-4xl: 2.25rem;
+  --font-size-5xl: 3rem;
+  
+  /* Espaciado */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+  --spacing-2xl: 3rem;
+  --spacing-3xl: 4rem;
+  
+  /* Bordes */
+  --border-radius-sm: 0.25rem;
+  --border-radius-md: 0.5rem;
+  --border-radius-lg: 0.75rem;
+  --border-radius-xl: 1rem;
+  
+  /* Sombras */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+  
+  /* Transiciones */
+  --transition-fast: 150ms ease-in-out;
+  --transition-base: 250ms ease-in-out;
+  --transition-slow: 350ms ease-in-out;
+  
+  /* Z-index */
+  --z-dropdown: 1000;
+  --z-sticky: 1020;
+  --z-fixed: 1030;
+  --z-modal-backdrop: 1040;
+  --z-modal: 1050;
+  --z-tooltip: 1060;
+}

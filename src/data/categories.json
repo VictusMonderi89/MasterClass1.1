@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cases",
+    "name": "Cases",
+    "description": "Fundas y estuches protectores para tu dispositivo",
+    "image": "/images/categories/cases.jpg",
+    "slug": "cases"
+  },
+  {
+    "id": "micas",
+    "name": "Micas",
+    "description": "Protectores de pantalla de alta calidad",
+    "image": "/images/categories/micas.jpg",
+    "slug": "micas"
+  },
+  {
+    "id": "protectores",
+    "name": "Protectores",
+    "description": "Protectores especializados para cámara y dispositivo",
+    "image": "/images/categories/protectores.jpg",
+    "slug": "protectores"
+  }
+]

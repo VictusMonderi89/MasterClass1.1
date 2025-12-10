@@ -1,0 +1,213 @@
+[
+  {
+    "id": "case-iphone-15-pro-black",
+    "name": "Case Premium iPhone 15 Pro",
+    "brand": "iphone",
+    "category": "cases",
+    "price": 29.99,
+    "originalPrice": 39.99,
+    "description": "Funda premium de silicona con protección militar MIL-STD-810G. Ajuste perfecto y protección total.",
+    "features": [
+      "Protección militar MIL-STD-810G",
+      "Material de silicona premium",
+      "Bordes elevados para pantalla y cámara",
+      "Compatible con carga inalámbrica"
+    ],
+    "images": [
+      "/images/products/case-iphone-15-pro-black-1.jpg",
+      "/images/products/case-iphone-15-pro-black-2.jpg"
+    ],
+    "colors": ["Negro", "Gris", "Azul Marino"],
+    "inStock": true,
+    "rating": 4.8,
+    "reviews": 124,
+    "featured": true
+  },
+  {
+    "id": "mica-samsung-s24-ultra",
+    "name": "Mica Cristal Templado Samsung S24 Ultra",
+    "brand": "samsung",
+    "category": "micas",
+    "price": 15.99,
+    "description": "Protector de pantalla de cristal templado 9H con tecnología anti-huella y respuesta táctil ultra sensible.",
+    "features": [
+      "Dureza 9H",
+      "Ultra transparente",
+      "Tecnología anti-huella",
+      "Instalación sin burbujas"
+    ],
+    "images": [
+      "/images/products/mica-samsung-s24-1.jpg"
+    ],
+    "inStock": true,
+    "rating": 4.6,
+    "reviews": 89,
+    "featured": true
+  },
+  {
+    "id": "case-xiaomi-14-carbon",
+    "name": "Case Fibra de Carbono Xiaomi 14",
+    "brand": "xiaomi",
+    "category": "cases",
+    "price": 19.99,
+    "description": "Funda ultraligera con textura de fibra de carbono y protección anti-impactos.",
+    "features": [
+      "Textura fibra de carbono",
+      "Ultraligera y resistente",
+      "Agarre antideslizante",
+      "Cortes de precisión"
+    ],
+    "images": [
+      "/images/products/case-xiaomi-14-1.jpg"
+    ],
+    "colors": ["Negro", "Gris Oscuro"],
+    "inStock": true,
+    "rating": 4.5,
+    "reviews": 67
+  },
+  {
+    "id": "protector-camara-iphone-15",
+    "name": "Protector de Cámara iPhone 15",
+    "brand": "iphone",
+    "category": "protectores",
+    "price": 12.99,
+    "description": "Protector de cristal templado para lentes de cámara. Protección total sin afectar la calidad de imagen.",
+    "features": [
+      "Cristal templado premium",
+      "Sin pérdida de calidad",
+      "Ultra delgado",
+      "Fácil instalación"
+    ],
+    "images": [
+      "/images/products/protector-camara-iphone-1.jpg"
+    ],
+    "inStock": true,
+    "rating": 4.7,
+    "reviews": 156,
+    "featured": true
+  },
+  {
+    "id": "case-motorola-edge-40",
+    "name": "Case Transparente Motorola Edge 40",
+    "brand": "motorola",
+    "category": "cases",
+    "price": 16.99,
+    "description": "Funda transparente de TPU flexible con esquinas reforzadas y tecnología anti-amarillamiento.",
+    "features": [
+      "Material TPU flexible",
+      "Anti-amarillamiento",
+      "Esquinas reforzadas",
+      "Ultra delgada"
+    ],
+    "images": [
+      "/images/products/case-motorola-edge-1.jpg"
+    ],
+    "colors": ["Transparente"],
+    "inStock": true,
+    "rating": 4.4,
+    "reviews": 43
+  },
+  {
+    "id": "mica-oppo-find-x6",
+    "name": "Mica Privacidad Oppo Find X6",
+    "brand": "oppo",
+    "category": "micas",
+    "price": 18.99,
+    "description": "Protector de pantalla con filtro de privacidad. Visión limitada a 45 grados.",
+    "features": [
+      "Filtro de privacidad",
+      "Cristal templado 9H",
+      "Anti-espía",
+      "Protección UV"
+    ],
+    "images": [
+      "/images/products/mica-oppo-find-1.jpg"
+    ],
+    "inStock": true,
+    "rating": 4.6,
+    "reviews": 52
+  },
+  {
+    "id": "protector-pantalla-samsung-s23",
+    "name": "Protector Hidrogel Samsung S23",
+    "brand": "samsung",
+    "category": "protectores",
+    "price": 13.99,
+    "description": "Protector de hidrogel auto-regenerable con cobertura total de pantalla curva.",
+    "features": [
+      "Material auto-regenerable",
+      "Cobertura total",
+      "Compatible con lector de huellas",
+      "Instalación húmeda"
+    ],
+    "images": [
+      "/images/products/protector-samsung-s23-1.jpg"
+    ],
+    "inStock": true,
+    "rating": 4.5,
+    "reviews": 78
+  },
+  {
+    "id": "case-iphone-14-leather",
+    "name": "Case Cuero Premium iPhone 14",
+    "brand": "iphone",
+    "category": "cases",
+    "price": 34.99,
+    "originalPrice": 44.99,
+    "description": "Funda de cuero auténtico con acabado minimalista. Elegancia y protección premium.",
+    "features": [
+      "Cuero auténtico",
+      "Envejecimiento natural",
+      "Forro de microfibra",
+      "Botones metálicos"
+    ],
+    "images": [
+      "/images/products/case-iphone-14-leather-1.jpg"
+    ],
+    "colors": ["Negro", "Café Oscuro", "Gris"],
+    "inStock": true,
+    "rating": 4.9,
+    "reviews": 203
+  },
+  {
+    "id": "mica-xiaomi-redmi-note-13",
+    "name": "Mica Anti-Blue Light Xiaomi Redmi Note 13",
+    "brand": "xiaomi",
+    "category": "micas",
+    "price": 14.99,
+    "description": "Protector con filtro de luz azul para reducir fatiga visual. Cristal templado premium.",
+    "features": [
+      "Filtro luz azul",
+      "Reduce fatiga visual",
+      "Dureza 9H",
+      "Alta transparencia"
+    ],
+    "images": [
+      "/images/products/mica-xiaomi-redmi-1.jpg"
+    ],
+    "inStock": true,
+    "rating": 4.3,
+    "reviews": 34
+  },
+  {
+    "id": "protector-completo-motorola",
+    "name": "Kit Protección 360° Motorola G84",
+    "brand": "motorola",
+    "category": "protectores",
+    "price": 24.99,
+    "description": "Kit completo: mica de pantalla + protector de cámara + case transparente.",
+    "features": [
+      "Protección completa 360°",
+      "3 piezas incluidas",
+      "Fácil instalación",
+      "Garantía extendida"
+    ],
+    "images": [
+      "/images/products/kit-motorola-g84-1.jpg"
+    ],
+    "inStock": true,
+    "rating": 4.8,
+    "reviews": 91,
+    "featured": true
+  }
+]

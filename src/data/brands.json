@@ -1,0 +1,38 @@
+[
+  {
+    "id": "samsung",
+    "name": "Samsung",
+    "logo": "/images/brands/samsung.svg",
+    "slug": "samsung",
+    "featured": true
+  },
+  {
+    "id": "xiaomi",
+    "name": "Xiaomi",
+    "logo": "/images/brands/xiaomi.svg",
+    "slug": "xiaomi",
+    "featured": true
+  },
+  {
+    "id": "motorola",
+    "name": "Motorola",
+    "logo": "/images/brands/motorola.svg",
+    "slug": "motorola",
+    "featured": true
+  },
+  {
+    "id": "oppo",
+    "name": "Oppo",
+    "logo": "/images/brands/oppo.svg",
+    "slug": "oppo",
+    "featured": true
+  },
+  {
+    "id": "iphone",
+    "name": "iPhone",
+    "logo": "/images/brands/iphone.svg",
+    "slug": "iphone",
+    "featured": true,
+    "premium": true
+  }
+]
