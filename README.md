@@ -1,2 +1,0 @@
-# MasterClass
-Clase Maestra
